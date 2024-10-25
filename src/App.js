@@ -25,6 +25,7 @@ function App() {
         <div className="container">
 
             <h1>ToDo App</h1>
+            <h1>You can add your confession it's anonymous!!</h1>
 
             <div className="top">
 
