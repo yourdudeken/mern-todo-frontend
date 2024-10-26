@@ -24,7 +24,7 @@ function App() {
 
         <div className="container">
 
-            <h1>ToDo App</h1>
+            <h1>ToDo List</h1>
 
             <div className="top">
 
